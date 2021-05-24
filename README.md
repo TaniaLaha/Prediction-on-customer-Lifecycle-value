@@ -4,3 +4,6 @@ such that we can predict which of the customers (out of the total customers)  ar
 Here target variable is 'Customer Lifecycle Value' which is a continuous in nature so a linear regression model has been prepared from this data.
 Final model's accuracy has come as 82.88%
 with an adjusted R-square value of 0.6331.
+
+Click below link for detail powerpoint presentation of this project:
+https://drive.google.com/file/d/1d8dVuKzL1Qm-YwI5xHG0TopYeGEkXBsL/view?usp=sharing 
